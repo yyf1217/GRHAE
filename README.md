@@ -1,2 +1,17 @@
 # GRHAE
-This repository contains the code implementation for the paper titled "A Yuan Dynasty Dataset and Hyperbolic Autoencoder Benchmark for Ancient Ceramic Anomaly Detection".
+This repository contains the code implementation for the paper titled "Anomaly Detection in Ancient Ceramics Using Gromov-Wasserstein Regularized Hyperbolic Autoencoders".
+
+
+## Usage
+
+To reproduce our experiments:
+
+- **Run GWHAE experiments:**  
+  Execute the following command to run the proposed GWHAE model:
+  ```bash
+  python GWHAE.py
+
+- **Run baseline experiments:**
+  Execute the following command to run the baseline model:
+  ```bash
+  python baseline.py
