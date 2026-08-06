@@ -1,5 +1,5 @@
 # GRHAE
-This repository contains the code implementation for the paper titled "Anomaly Detection in Ancient Ceramics Using Gromov-Wasserstein Regularized Hyperbolic Autoencoders".
+This repository contains the code implementation for the paper titled "Anomaly Detection in Yuan Blue-and-White Porcelain Using Gromov-Wasserstein Regularized Hyperbolic Autoencoders".
 
 
 ## Usage
