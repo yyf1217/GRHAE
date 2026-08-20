@@ -9,7 +9,7 @@ To reproduce our experiments:
 - **Run GWHAE experiments:**  
   Execute the following command to run the proposed GWHAE model:
   ```bash
-  python GWHAE.py
+  python main_GWHAE.py
 
 - **Run baseline experiments:**
   Execute the following command to run the baseline model:
